@@ -1,5 +1,5 @@
 word="hackerrank"
-k=0
+k=0|0
 
 
 def longstring(word,k):
