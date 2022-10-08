@@ -1,3 +1,4 @@
+#malayalam
 def palindrome(st):
     i=0
     j=len(st)-1
